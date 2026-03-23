@@ -15,13 +15,13 @@ The files here include a mix of:
 coding-practice/
 │
 ├── README.md
-├── week01/
+├── Probability_and_Statistics/
 │   ├── 01_probability_basics_simulation.ipynb
 |         |- Bernoulli and Binomial random variables
 |         |- empirical mean, PDF and PMF
 |         |- convergence with increasing sample size
 |         |- Gaussian sampling
 |         |- conditional probability and Bayes' rule
-├── week02/
+├── TBD/
 │   ├── TBD
 └── utils/
